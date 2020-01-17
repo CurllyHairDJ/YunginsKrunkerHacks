@@ -36,8 +36,8 @@ document.body.appendChild(d);
 // Background
 //document.getElementById("instructionHolder").style.backgroundImage = "url('https://i.pinimg.com/originals/8a/ce/a9/8acea9261c892e75b0651de1d4f4e0e1.jpg')";
 // Chat messege
-document.getElementById('voiceDisplay').innerHTML = '<div class="menuDebugInfo" id="zaresplusisaskidd"><span style="color:#DAE110">Working on 1.9.2<span class="chatMsg">| OVERHAX KRUNKERPLUS REWORKED <span class="chatMsg"><span style="color:#F18938"> | OVERHAX.ML</span></span></span><i id="voiceIcon" class="material-icons" style="color:#fff;font-size:40px">mic</i> <div id="recTimer">[V]</div></div></div></div>';
-//document.getElementById('chatList').innerHTML = '<div class="chatItem"><span style="color:#DAE110">Working on 1.9.2<span class="chatMsg">| OVERHAX KRUNKERPLUS REWORKED <span class="chatMsg"><span style="color:#F18938"> | OVERHAX.ML</span></span></span></div>';
+document.getElementById('voiceDisplay').innerHTML = '<div class="menuDebugInfo" id="zaresplusisaskidd"><span style="color:#DAE110">Working on 1.9.7<span class="chatMsg">| CurllyHairDJ Krunker Hacks+ <span class="chatMsg"><span style="color:#F18938"> | OVERHAX.ML</span></span></span><i id="voiceIcon" class="material-icons" style="color:#fff;font-size:40px">mic</i> <div id="recTimer">[V]</div></div></div></div>';
+//document.getElementById('chatList').innerHTML = '<div class="chatItem"><span style="color:#DAE110">Working on 1.9.7<span class="chatMsg">| CurllyHairDJ Krunker Hacks+ <span class="chatMsg"><span style="color:#F18938"> | OVERHAX.ML</span></span></span></div>';
 //Fps counter
 javascript:(function(){var script=document.createElement('script');script.onload=function(){var stats=new Stats();document.body.appendChild(stats.dom);requestAnimationFrame(function loop(){stats.update();requestAnimationFrame(loop)});};script.src='//mrdoob.github.io/stats.js/build/stats.min.js';document.head.appendChild(script);})()
 //Full screen
